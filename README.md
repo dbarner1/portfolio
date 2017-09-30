@@ -1,24 +1,18 @@
-# README
+<h1>My Portfolio</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>Welcome to my portfolio (powered with a Ruby/Rails backend, React front end, and ActiveAdmin portal to update data).  This site was created to display my work (both what I know, and have yet to learn).</p>
 
-Things you may want to cover:
+<b>Link to project:</b> Coming soon!
 
-* Ruby version
+<h2>How It's Made</h2>
 
-* System dependencies
+<b>Tech used:</b> React, Ruby/Rails, SCSS
 
-* Configuration
 
-* Database creation
+<h2>Optimizations</h2>
 
-* Database initialization
 
-* How to run the test suite
+<h2>Lessons Learned</h2>
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+<h2>Other Examples</h2>
