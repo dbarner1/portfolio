@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Testing Rails React</title>
+</head>
+<body>
+ <tbody>
+    <% @comments.each do |comment| %>
+      <tr>
+        <td><%= comment.display_header %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</body>
+</html>
