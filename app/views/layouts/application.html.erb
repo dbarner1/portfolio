@@ -9,10 +9,12 @@
   </head>
 
   <body>
-  <nav class="navbar">
-  	<li>This is the intial commit!</li>
-  	<li><%= link_to "Comments", comments_path %></li>
-  </nav>
+    <header>
+      <nav class="navbar">
+      	<li><%= link_to "Home", comments_path %></li>
+      	<li><%= link_to "Comments", comments_path %></li>
+      </nav>
+    </header>
     <%= yield %>
   </body>
 </html>
